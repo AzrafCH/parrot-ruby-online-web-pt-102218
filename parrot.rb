@@ -3,5 +3,6 @@
 
 def parrot()
   puts "Squawk!"
-  return parrot
 end 
+
+return parrot
